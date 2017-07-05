@@ -1,0 +1,10 @@
+Session.vim
+*.swp
+# cabal
+.cabal-sandbox/
+cabal.sandbox.config
+dist/
+# haskell
+*.o
+*.hi
+*.errors
